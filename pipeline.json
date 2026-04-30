@@ -5,17 +5,21 @@
       "company": "Google",
       "role": "",
       "recruiter": null,
-      "status": "Phone Screen",
-      "stage": "",
-      "priority": "Medium",
-      "next_date": null,
+      "status": "Interview Scheduled",
+      "stage": "Round 1",
+      "priority": "High",
+      "next_date": "2026-05-05T13:00",
       "link": null,
-      "next_action": "",
+      "next_action": "Prepare for Behavioral",
       "notes": null,
       "history": [
         {
           "date": "2026-04-30",
           "event": "Role added to pipeline."
+        },
+        {
+          "date": "2026-04-30",
+          "event": "Status → Interview Scheduled | Stage → Round 1"
         }
       ]
     }
