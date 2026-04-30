@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pipeline/static/css/main.592fd87f.css",
+    "main.js": "/pipeline/static/js/main.98dc3bb6.js",
+    "index.html": "/pipeline/index.html",
+    "main.592fd87f.css.map": "/pipeline/static/css/main.592fd87f.css.map",
+    "main.98dc3bb6.js.map": "/pipeline/static/js/main.98dc3bb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.592fd87f.css",
+    "static/js/main.98dc3bb6.js"
+  ]
+}
