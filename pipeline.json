@@ -1,0 +1,24 @@
+{
+  "roles": [
+    {
+      "id": "google",
+      "company": "Google",
+      "role": "",
+      "recruiter": null,
+      "status": "Phone Screen",
+      "stage": "",
+      "priority": "Medium",
+      "next_date": null,
+      "link": null,
+      "next_action": "",
+      "notes": null,
+      "history": [
+        {
+          "date": "2026-04-30",
+          "event": "Role added to pipeline."
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-04-30"
+}
