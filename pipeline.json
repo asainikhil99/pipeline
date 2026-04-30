@@ -1,28 +1,260 @@
+pipeline.json
 {
+  "last_updated": "2026-04-29",
   "roles": [
+    {
+      "id": "intuit",
+      "company": "Intuit",
+      "role": "ML / AI Engineer",
+      "recruiter": null,
+      "status": "Not Moving Forward",
+      "stage": "Closed",
+      "next_action": null,
+      "next_date": null,
+      "priority": "Low",
+      "notes": "Recruiter call done. Not proceeding.",
+      "link": null,
+      "history": [
+        {
+          "date": "2026-04-22",
+          "event": "Recruiter call done. Not moving forward."
+        }
+      ]
+    },
+    {
+      "id": "fireworks_ai",
+      "company": "Fireworks AI",
+      "role": "AI / ML Engineer",
+      "recruiter": null,
+      "status": "Waiting for Reply",
+      "stage": "Assessment Done",
+      "next_action": "Follow up if no reply by Apr 29",
+      "next_date": "2026-04-29",
+      "priority": "High",
+      "notes": "Assessment submitted. Awaiting feedback.",
+      "link": null,
+      "history": [
+        {
+          "date": "2026-04-22",
+          "event": "Assessment submitted."
+        }
+      ]
+    },
+    {
+      "id": "freenome",
+      "company": "Freenome",
+      "role": "ML Engineer",
+      "recruiter": "Jairo",
+      "status": "Waiting for Reply",
+      "stage": "Screen Done",
+      "next_action": "Follow up with Jairo if no reply by Apr 28",
+      "next_date": "2026-04-28",
+      "priority": "High",
+      "notes": "Recruiter screening complete. Jairo to revert.",
+      "link": null,
+      "history": [
+        {
+          "date": "2026-04-22",
+          "event": "Recruiter screening complete."
+        }
+      ]
+    },
     {
       "id": "google",
       "company": "Google",
-      "role": "",
-      "recruiter": null,
-      "status": "Interview Scheduled",
-      "stage": "Round 1",
+      "role": "Senior ML Engineer",
+      "recruiter": "Jim Joseph",
+      "status": "Moving Forward",
+      "stage": "Availability Sent",
+      "next_action": "Prep for Round 1 virtual interview",
+      "next_date": "2026-05-05T13:00:00",
       "priority": "High",
-      "next_date": "2026-05-05T13:00",
+      "notes": "Screen done. Assessment done. Availability sent. Round 1 scheduled May 5 @ 1 PM.",
       "link": null,
-      "next_action": "Prepare for Behavioral",
-      "notes": null,
       "history": [
         {
-          "date": "2026-04-30",
-          "event": "Role added to pipeline."
+          "date": "2026-04-20",
+          "event": "Phone screen passed."
         },
         {
-          "date": "2026-04-30",
-          "event": "Status → Interview Scheduled | Stage → Round 1"
+          "date": "2026-04-22",
+          "event": "Assessment passed."
+        },
+        {
+          "date": "2026-04-22",
+          "event": "Availability sent. Round 1 on May 5 @ 1 PM confirmed."
+        }
+      ]
+    },
+    {
+      "id": "elysian_staffing",
+      "company": "Elysian Staffing (Client)",
+      "role": "Applied AI Engineer (Contract)",
+      "recruiter": "Tiffany Jordan",
+      "status": "Interview Scheduled",
+      "stage": "Client Interview",
+      "next_action": "Prep for client interview \u2014 Applied AI Engineer contract role",
+      "next_date": "2026-05-01T10:00:00",
+      "priority": "High",
+      "notes": "Englewood Cliffs NJ. Contract role. RAG/LLM stack strong match. Screen went well. Client moving forward. Interview Fri May 1 @ 10:00 AM EST.",
+      "link": null,
+      "history": [
+        {
+          "date": "2026-04-20",
+          "event": "Tiffany Jordan reached out. Strong stack match."
+        },
+        {
+          "date": "2026-04-22",
+          "event": "Phone screen scheduled for Apr 25 @ 1:30 PM EST."
+        },
+        {
+          "date": "2026-04-26",
+          "event": "Phone screen done. Went well. Submitted to client. Awaiting response."
+        },
+        {
+          "date": "2026-04-29",
+          "event": "Client moving forward. Interview scheduled Fri May 1 @ 10:00 AM EST."
+        }
+      ]
+    },
+    {
+      "id": "tek_systems",
+      "company": "Tek Systems",
+      "role": "ML / AI Engineer",
+      "recruiter": "Maria",
+      "status": "Screening Scheduled",
+      "stage": "Phone Screen",
+      "next_action": "Prep for screening: resume walk-through, ML stack, availability",
+      "next_date": "2026-04-24T11:30:00",
+      "priority": "High",
+      "notes": "Screen scheduled Apr 24 @ 11:30 AM. Do this before Elysian.",
+      "link": null,
+      "history": [
+        {
+          "date": "2026-04-22",
+          "event": "Phone screen scheduled for Apr 24 @ 11:30 AM."
+        }
+      ]
+    },
+    {
+      "id": "capital_one",
+      "company": "Capital One",
+      "role": "Senior ML Engineer",
+      "recruiter": "Daniel",
+      "status": "Interview Scheduled",
+      "stage": "Phone Call",
+      "next_action": "Prep STAR stories + Capital One ML use cases (fraud, rec-sys)",
+      "next_date": "2026-05-18T11:40:00",
+      "priority": "High",
+      "notes": "Phone call with Daniel on May 18. Research Capital One AI/fraud/rec-sys.",
+      "link": null,
+      "history": [
+        {
+          "date": "2026-04-22",
+          "event": "Phone call with Daniel scheduled for May 18 @ 11:40 AM."
+        }
+      ]
+    },
+    {
+      "id": "nyu",
+      "company": "NYU",
+      "role": "ML / Research Role",
+      "recruiter": null,
+      "status": "Assessment Pending",
+      "stage": "Assessment",
+      "next_action": "Complete assessment ASAP",
+      "next_date": "ASAP",
+      "priority": "Medium",
+      "notes": "Assessment in progress.",
+      "link": null,
+      "history": [
+        {
+          "date": "2026-04-22",
+          "event": "Assessment received. In progress."
+        }
+      ]
+    },
+    {
+      "id": "hackerrank",
+      "company": "HackerRank",
+      "role": "Assessment (company TBD)",
+      "recruiter": null,
+      "status": "Assessment Pending",
+      "stage": "Assessment",
+      "next_action": "Clarify which company this is for, then complete",
+      "next_date": "ASAP",
+      "priority": "Medium",
+      "notes": "Unclear which company this HackerRank assessment is tied to.",
+      "link": null,
+      "history": [
+        {
+          "date": "2026-04-22",
+          "event": "Assessment received. Company unclear."
+        }
+      ]
+    },
+    {
+      "id": "primis",
+      "company": "Primis",
+      "role": "AI/ML Role",
+      "recruiter": "Talisa (LinkedIn)",
+      "status": "Submitted to Client",
+      "stage": "Screen Done",
+      "next_action": "Await client feedback",
+      "next_date": null,
+      "priority": "High",
+      "notes": "Phone screen complete. Profile submitted to client. Awaiting response.",
+      "link": null,
+      "history": [
+        {
+          "date": "2026-04-22",
+          "event": "Phone screen scheduled."
+        },
+        {
+          "date": "2026-04-26",
+          "event": "Phone screen done. Submitted to client."
+        }
+      ]
+    },
+    {
+      "id": "deliveroo",
+      "company": "Deliveroo",
+      "role": "Senior ML Engineer",
+      "recruiter": "Danny Gilbey (Tech Sourcer)",
+      "recruiter_email": "danny.gilbey@deliveroo.co.uk",
+      "status": "Screening Scheduled",
+      "stage": "Pre Screen",
+      "next_action": "Prep for pre-screen with Danny Gilbey",
+      "next_date": "2026-04-28T09:30:00",
+      "priority": "High",
+      "notes": "Pre screen via Google Meet. 30 min. Danny Gilbey is the tech sourcer, James is the go-to recruiter.",
+      "link": "https://meet.google.com/hep-ncvp-gyp",
+      "history": [
+        {
+          "date": "2026-04-28",
+          "event": "Pre screen scheduled with Danny Gilbey @ 9:30 AM EST on Tue Apr 28 via Google Meet."
+        }
+      ]
+    },
+    {
+      "id": "best_buy",
+      "company": "Best Buy",
+      "role": "Applied Machine Learning Engineer",
+      "recruiter": "Deb Schuenke",
+      "recruiter_email": "deb.schuenke@bestbuy.com",
+      "status": "Interview Scheduled",
+      "stage": "Phone Interview",
+      "next_action": "Prep for phone interview with Deb Schuenke. Note: camera on, no AI tools allowed.",
+      "next_date": "2026-05-01T12:30:00",
+      "priority": "High",
+      "notes": "Via Microsoft Teams. Camera required. Transcription enabled. AI tools explicitly banned during interview.",
+      "link": "https://teams.microsoft.com/meet/223362716986099",
+      "history": [
+        {
+          "date": "2026-05-01",
+          "event": "Phone interview scheduled with Deb Schuenke @ 12:30 PM via Microsoft Teams."
         }
       ]
     }
-  ],
-  "last_updated": "2026-04-30"
+  ]
 }
