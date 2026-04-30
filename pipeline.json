@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29",
+  "last_updated": "2026-04-30",
   "roles": [
     {
       "id": "intuit",
@@ -71,18 +71,9 @@
       "notes": "Screen done. Assessment done. Availability sent. Round 1 scheduled May 5 @ 1 PM.",
       "link": null,
       "history": [
-        {
-          "date": "2026-04-20",
-          "event": "Phone screen passed."
-        },
-        {
-          "date": "2026-04-22",
-          "event": "Assessment passed."
-        },
-        {
-          "date": "2026-04-22",
-          "event": "Availability sent. Round 1 on May 5 @ 1 PM confirmed."
-        }
+        { "date": "2026-04-20", "event": "Phone screen passed." },
+        { "date": "2026-04-22", "event": "Assessment passed." },
+        { "date": "2026-04-22", "event": "Availability sent. Round 1 on May 5 @ 1 PM confirmed." }
       ]
     },
     {
@@ -92,28 +83,16 @@
       "recruiter": "Tiffany Jordan",
       "status": "Interview Scheduled",
       "stage": "Client Interview",
-      "next_action": "Prep for client interview \u2014 Applied AI Engineer contract role",
+      "next_action": "Prep for client interview — Applied AI Engineer contract role",
       "next_date": "2026-05-01T10:00:00",
       "priority": "High",
       "notes": "Englewood Cliffs NJ. Contract role. RAG/LLM stack strong match. Screen went well. Client moving forward. Interview Fri May 1 @ 10:00 AM EST.",
       "link": null,
       "history": [
-        {
-          "date": "2026-04-20",
-          "event": "Tiffany Jordan reached out. Strong stack match."
-        },
-        {
-          "date": "2026-04-22",
-          "event": "Phone screen scheduled for Apr 25 @ 1:30 PM EST."
-        },
-        {
-          "date": "2026-04-26",
-          "event": "Phone screen done. Went well. Submitted to client. Awaiting response."
-        },
-        {
-          "date": "2026-04-29",
-          "event": "Client moving forward. Interview scheduled Fri May 1 @ 10:00 AM EST."
-        }
+        { "date": "2026-04-20", "event": "Tiffany Jordan reached out. Strong stack match." },
+        { "date": "2026-04-22", "event": "Phone screen scheduled for Apr 25 @ 1:30 PM EST." },
+        { "date": "2026-04-26", "event": "Phone screen done. Went well. Submitted to client. Awaiting response." },
+        { "date": "2026-04-29", "event": "Client moving forward. Interview scheduled Fri May 1 @ 10:00 AM EST." }
       ]
     },
     {
@@ -129,10 +108,7 @@
       "notes": "Screen scheduled Apr 24 @ 11:30 AM. Do this before Elysian.",
       "link": null,
       "history": [
-        {
-          "date": "2026-04-22",
-          "event": "Phone screen scheduled for Apr 24 @ 11:30 AM."
-        }
+        { "date": "2026-04-22", "event": "Phone screen scheduled for Apr 24 @ 11:30 AM." }
       ]
     },
     {
@@ -148,10 +124,7 @@
       "notes": "Phone call with Daniel on May 18. Research Capital One AI/fraud/rec-sys.",
       "link": null,
       "history": [
-        {
-          "date": "2026-04-22",
-          "event": "Phone call with Daniel scheduled for May 18 @ 11:40 AM."
-        }
+        { "date": "2026-04-22", "event": "Phone call with Daniel scheduled for May 18 @ 11:40 AM." }
       ]
     },
     {
@@ -167,10 +140,7 @@
       "notes": "Assessment in progress.",
       "link": null,
       "history": [
-        {
-          "date": "2026-04-22",
-          "event": "Assessment received. In progress."
-        }
+        { "date": "2026-04-22", "event": "Assessment received. In progress." }
       ]
     },
     {
@@ -186,10 +156,7 @@
       "notes": "Unclear which company this HackerRank assessment is tied to.",
       "link": null,
       "history": [
-        {
-          "date": "2026-04-22",
-          "event": "Assessment received. Company unclear."
-        }
+        { "date": "2026-04-22", "event": "Assessment received. Company unclear." }
       ]
     },
     {
@@ -205,14 +172,8 @@
       "notes": "Phone screen complete. Profile submitted to client. Awaiting response.",
       "link": null,
       "history": [
-        {
-          "date": "2026-04-22",
-          "event": "Phone screen scheduled."
-        },
-        {
-          "date": "2026-04-26",
-          "event": "Phone screen done. Submitted to client."
-        }
+        { "date": "2026-04-22", "event": "Phone screen scheduled." },
+        { "date": "2026-04-26", "event": "Phone screen done. Submitted to client." }
       ]
     },
     {
@@ -220,7 +181,6 @@
       "company": "Deliveroo",
       "role": "Senior ML Engineer",
       "recruiter": "Danny Gilbey (Tech Sourcer)",
-      "recruiter_email": "danny.gilbey@deliveroo.co.uk",
       "status": "Screening Scheduled",
       "stage": "Pre Screen",
       "next_action": "Prep for pre-screen with Danny Gilbey",
@@ -229,10 +189,7 @@
       "notes": "Pre screen via Google Meet. 30 min. Danny Gilbey is the tech sourcer, James is the go-to recruiter.",
       "link": "https://meet.google.com/hep-ncvp-gyp",
       "history": [
-        {
-          "date": "2026-04-28",
-          "event": "Pre screen scheduled with Danny Gilbey @ 9:30 AM EST on Tue Apr 28 via Google Meet."
-        }
+        { "date": "2026-04-28", "event": "Pre screen scheduled with Danny Gilbey @ 9:30 AM EST on Tue Apr 28 via Google Meet." }
       ]
     },
     {
@@ -240,7 +197,6 @@
       "company": "Best Buy",
       "role": "Applied Machine Learning Engineer",
       "recruiter": "Deb Schuenke",
-      "recruiter_email": "deb.schuenke@bestbuy.com",
       "status": "Interview Scheduled",
       "stage": "Phone Interview",
       "next_action": "Prep for phone interview with Deb Schuenke. Note: camera on, no AI tools allowed.",
@@ -249,10 +205,7 @@
       "notes": "Via Microsoft Teams. Camera required. Transcription enabled. AI tools explicitly banned during interview.",
       "link": "https://teams.microsoft.com/meet/223362716986099",
       "history": [
-        {
-          "date": "2026-05-01",
-          "event": "Phone interview scheduled with Deb Schuenke @ 12:30 PM via Microsoft Teams."
-        }
+        { "date": "2026-05-01", "event": "Phone interview scheduled with Deb Schuenke @ 12:30 PM via Microsoft Teams." }
       ]
     }
   ]
