@@ -25,7 +25,7 @@
       "company": "Fireworks AI",
       "role": "AI / ML Engineer",
       "recruiter": null,
-      "status": "Closed",
+      "status": "Not Moving Forward",
       "stage": "Assessment Done",
       "next_action": "Follow up if no reply by Apr 29",
       "next_date": "2026-04-29",
@@ -39,7 +39,7 @@
         },
         {
           "date": "2026-05-01",
-          "event": "Status → Closed"
+          "event": "Status → Not Moving Forward"
         }
       ]
     },
@@ -227,7 +227,7 @@
       "status": "Screening Scheduled",
       "stage": "Pre Screen",
       "next_action": "Prep for pre-screen with Danny Gilbey",
-      "next_date": "2026-05-06T10:00",
+      "next_date": "2026-04-28T09:30:00",
       "priority": "High",
       "notes": "Pre screen via Google Meet. 30 min. Danny Gilbey is the tech sourcer, James is the go-to recruiter.",
       "link": "https://meet.google.com/hep-ncvp-gyp",
