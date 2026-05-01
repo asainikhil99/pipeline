@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01",
+  "last_updated": "2026-04-30",
   "roles": [
     {
       "id": "intuit",
@@ -227,7 +227,7 @@
       "status": "Screening Scheduled",
       "stage": "Pre Screen",
       "next_action": "Prep for pre-screen with Danny Gilbey",
-      "next_date": "2026-04-28T09:30:00",
+      "next_date": "2026-05-06T10:00",
       "priority": "High",
       "notes": "Pre screen via Google Meet. 30 min. Danny Gilbey is the tech sourcer, James is the go-to recruiter.",
       "link": "https://meet.google.com/hep-ncvp-gyp",
